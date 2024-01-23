@@ -10,8 +10,13 @@
     "start": "node ./dist/index.js"
   },
   "keywords": [],
+  "readmeFilename": "README.md",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shantoislam6/node-ts-express.git"
+  },
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.5",
